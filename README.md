@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern_E-CommerceShopping
+# E-CommerceShopping
 <h2>Shopping Website</h2>
 Overview<br>
 This is a full-stack shopping website project that allows users to browse, select, and purchase products. Admins have the ability to manage products, including adding, updating, and removing items from the store. The project uses a combination of HTML, CSS, Bootstrap (bs) for the front-end, and PHP for the back-end logic.<br>
